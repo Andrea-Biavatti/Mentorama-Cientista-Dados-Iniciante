@@ -11,8 +11,8 @@
 - [x] Módulo 3: Fundamentos Básicos de Python 2
 - [x] Módulo 4: Trabalhando com Banco de Dados
 - [x] Módulo 5: Bibliotecas Numpy e Pandas
-- [ ] Módulo 6: Análise e Visualização de Dados
-- [ ] Módulo 7: Pré-processamento de Dados
+- [x] Módulo 6: Análise e Visualização de Dados
+- [x] Módulo 7: Pré-processamento de Dados
 - [ ] Módulo 8: Fundamentos de Machine Learning
 - [ ] Módulo 9: Machine Learning na Prática
 - [ ] Módulo 10: Modelos de Classificação
