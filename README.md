@@ -13,8 +13,8 @@
 - [x] Módulo 5: Bibliotecas Numpy e Pandas
 - [x] Módulo 6: Análise e Visualização de Dados
 - [x] Módulo 7: Pré-processamento de Dados
-- [ ] Módulo 8: Fundamentos de Machine Learning
-- [ ] Módulo 9: Machine Learning na Prática
+- [x] Módulo 8: Fundamentos de Machine Learning
+- [x] Módulo 9: Machine Learning na Prática
 - [ ] Módulo 10: Modelos de Classificação
 - [ ] Módulo 11: Implementando Modelos de Machine Learning do zero
 - [ ] Módulo 12: Modelos de Árvores e Ensambles
