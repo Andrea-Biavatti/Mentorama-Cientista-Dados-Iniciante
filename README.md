@@ -17,7 +17,7 @@
 - [x] Módulo 9: Machine Learning na Prática
 - [x] Módulo 10: Modelos de Classificação
 - [x] Módulo 11: Implementando Modelos de Machine Learning do zero
-- [ ] Módulo 12: Modelos de Árvores e Ensambles
+- [x] Módulo 12: Modelos de Árvores e Ensambles
 - [ ] Módulo 13: Clusterização
 - [ ] Módulo 14: Aplicações: Detecção de Anomalias
 - [ ] Módulo 15: Aplicações: Sistemas de Recomendação
