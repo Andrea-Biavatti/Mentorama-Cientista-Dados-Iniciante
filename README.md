@@ -1,6 +1,6 @@
 # ![Cópia de Sem nome](https://user-images.githubusercontent.com/72770754/195649637-a7ef09b0-628b-4c71-9fe5-918c0101c8d0.png) Mentorama-Cientista-Dados-Iniciante
 
- Atividades desenvolvidas durante o Curso de Cientista de Dados na EBAC.
+ Atividades desenvolvidas durante o Curso de Cientista de Dados na Mentorama.
 
 <details><summary> ✅ STATUS DOS MÓDULOS </summary>
 
